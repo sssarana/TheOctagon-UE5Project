@@ -1,9 +1,10 @@
+Content/** filter=lfs diff=lfs merge=lfs -text
+
 # UE5 Asset Files
 *.uasset filter=lfs diff=lfs merge=lfs -text
 *.umap filter=lfs diff=lfs merge=lfs -text
 *.upk filter=lfs diff=lfs merge=lfs -text
 *.udk filter=lfs diff=lfs merge=lfs -text
-
 # Raw Content
 *.fbx filter=lfs diff=lfs merge=lfs -text
 *.3ds filter=lfs diff=lfs merge=lfs -text
@@ -21,4 +22,3 @@
 *.exe filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.rar filter=lfs diff=lfs merge=lfs -text
-Content/** filter=lfs diff=lfs merge=lfs -text
