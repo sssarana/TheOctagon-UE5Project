@@ -5,8 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"/Users/sarana/Desktop/College/GameDev/gameoctagon/TheOctagon-UE5Project/Content/Cutscene_images/scholar_planet.uasset",
-				"/Users/sarana/Desktop/College/GameDev/gameoctagon/TheOctagon-UE5Project/Content/Cutscene_images/ufo_inside.uasset"
+				"/Users/sarana/Desktop/College/GameDev/gameoctagon/TheOctagon-UE5Project/Content/__ExternalActors__/TopDown/Lvl_TopDown/B/Q4/YHBTFVVROFRO2QJHEMNSZA.uasset",
+				"/Users/sarana/Desktop/College/GameDev/gameoctagon/TheOctagon-UE5Project/Content/__ExternalActors__/TopDown/Lvl_TopDown/A/SM/EKVZON8I3D2EGG9WIECMNT.uasset",
+				"/Users/sarana/Desktop/College/GameDev/gameoctagon/TheOctagon-UE5Project/Content/Ending.uasset",
+				"/Users/sarana/Desktop/College/GameDev/gameoctagon/TheOctagon-UE5Project/Content/__ExternalActors__/TopDown/Lvl_TopDown/0/6J/G1N8SZTW5C360AFP0V9QRI.uasset"
 			]
 		}
 	]
