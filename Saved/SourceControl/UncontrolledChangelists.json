@@ -5,13 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"/Users/sarana/Desktop/College/GameDev/gameoctagon/TheOctagon-UE5Project/Content/Cutscene_images/coronation.uasset",
-				"/Users/sarana/Desktop/College/GameDev/gameoctagon/TheOctagon-UE5Project/Content/Cutscene_images/power.uasset",
-				"/Users/sarana/Desktop/College/GameDev/gameoctagon/TheOctagon-UE5Project/Content/Cutscene_images/slaves.uasset",
-				"/Users/sarana/Desktop/College/GameDev/gameoctagon/TheOctagon-UE5Project/Content/bad_ending.uasset",
-				"/Users/sarana/Desktop/College/GameDev/gameoctagon/TheOctagon-UE5Project/Content/__ExternalActors__/TopDown/Lvl_TopDown/6/G4/3T31QC3P0RIJUT6Q7E0EZD.uasset",
-				"/Users/sarana/Desktop/College/GameDev/gameoctagon/TheOctagon-UE5Project/Content/good_ending.uasset",
-				"/Users/sarana/Desktop/College/GameDev/gameoctagon/TheOctagon-UE5Project/Content/__ExternalActors__/TopDown/Lvl_TopDown/5/VH/SYKAK2QZ539BL2MA795CZD.uasset"
+				"/Users/sarana/Desktop/College/GameDev/gameoctagon/TheOctagon-UE5Project/Content/Blueprints/Cutscene_BPs/VideoPlayer.uasset",
+				"/Users/sarana/Desktop/College/GameDev/gameoctagon/TheOctagon-UE5Project/Content/Blueprints/Cutscene_BPs/VideoPlayer_Video.uasset",
+				"/Users/sarana/Desktop/College/GameDev/gameoctagon/TheOctagon-UE5Project/Content/Blueprints/Cutscene_BPs/first.uasset",
+				"/Users/sarana/Desktop/College/GameDev/gameoctagon/TheOctagon-UE5Project/Content/Movies/explode.uasset",
+				"/Users/sarana/Desktop/College/GameDev/gameoctagon/TheOctagon-UE5Project/Content/Movies/happy.uasset",
+				"/Users/sarana/Desktop/College/GameDev/gameoctagon/TheOctagon-UE5Project/Content/NewMediaPlaylist.uasset",
+				"/Users/sarana/Desktop/College/GameDev/gameoctagon/TheOctagon-UE5Project/Content/__ExternalActors__/TopDown/Lvl_TopDown/B/MC/PPEE9QL7KJTTPI3GXQ91SL.uasset",
+				"/Users/sarana/Desktop/College/GameDev/gameoctagon/TheOctagon-UE5Project/Content/Blueprints/Cutscene_BPs/VideoPlayer_Video_Mat.uasset",
+				"/Users/sarana/Desktop/College/GameDev/gameoctagon/TheOctagon-UE5Project/Content/__ExternalActors__/TopDown/Lvl_TopDown/C/IR/EEPBJ4BDP6QO1WH9CDDKJV.uasset"
 			]
 		}
 	]
